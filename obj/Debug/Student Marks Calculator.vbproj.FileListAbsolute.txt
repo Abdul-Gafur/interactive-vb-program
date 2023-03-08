@@ -1,0 +1,26 @@
+C:\Users\Gafur\Desktop\Student Marks Calculator\Student Marks Calculator\obj\Debug\Student Marks Calculator.vbproj.AssemblyReference.cache
+C:\Users\Gafur\Desktop\Student Marks Calculator\Student Marks Calculator\obj\Debug\Student Marks Calculator.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Gafur\Desktop\Student Marks Calculator\Student Marks Calculator\obj\Debug\Student_Marks_Calculator.btnresult.resources
+C:\Users\Gafur\Desktop\Student Marks Calculator\Student Marks Calculator\obj\Debug\Student_Marks_Calculator.Resources.resources
+C:\Users\Gafur\Desktop\Student Marks Calculator\Student Marks Calculator\obj\Debug\Student Marks Calculator.vbproj.GenerateResource.cache
+C:\Users\Gafur\Desktop\Student Marks Calculator\Student Marks Calculator\obj\Debug\Student Marks Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\Gafur\Desktop\Student Marks Calculator\Student Marks Calculator\bin\Debug\Student Marks Calculator.exe.config
+C:\Users\Gafur\Desktop\Student Marks Calculator\Student Marks Calculator\bin\Debug\Student Marks Calculator.exe
+C:\Users\Gafur\Desktop\Student Marks Calculator\Student Marks Calculator\bin\Debug\Student Marks Calculator.pdb
+C:\Users\Gafur\Desktop\Student Marks Calculator\Student Marks Calculator\bin\Debug\Student Marks Calculator.xml
+C:\Users\Gafur\Desktop\Student Marks Calculator\Student Marks Calculator\obj\Debug\Student Marks Calculator.exe
+C:\Users\Gafur\Desktop\Student Marks Calculator\Student Marks Calculator\obj\Debug\Student Marks Calculator.xml
+C:\Users\Gafur\Desktop\Student Marks Calculator\Student Marks Calculator\obj\Debug\Student Marks Calculator.pdb
+C:\Users\Gafur\Desktop\Student Marks Calculator\obj\Debug\Student Marks Calculator.vbproj.AssemblyReference.cache
+C:\Users\Gafur\Desktop\Student Marks Calculator\obj\Debug\Student Marks Calculator.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Gafur\Desktop\Student Marks Calculator\obj\Debug\Student_Marks_Calculator.btnresult.resources
+C:\Users\Gafur\Desktop\Student Marks Calculator\obj\Debug\Student_Marks_Calculator.Resources.resources
+C:\Users\Gafur\Desktop\Student Marks Calculator\obj\Debug\Student Marks Calculator.vbproj.GenerateResource.cache
+C:\Users\Gafur\Desktop\Student Marks Calculator\obj\Debug\Student Marks Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\Gafur\Desktop\Student Marks Calculator\obj\Debug\Student Marks Calculator.xml
+C:\Users\Gafur\Desktop\Student Marks Calculator\obj\Debug\Student Marks Calculator.pdb
+C:\Users\Gafur\Desktop\Student Marks Calculator\bin\Debug\Student Marks Calculator.exe.config
+C:\Users\Gafur\Desktop\Student Marks Calculator\bin\Debug\Student Marks Calculator.exe
+C:\Users\Gafur\Desktop\Student Marks Calculator\bin\Debug\Student Marks Calculator.pdb
+C:\Users\Gafur\Desktop\Student Marks Calculator\bin\Debug\Student Marks Calculator.xml
+C:\Users\Gafur\Desktop\Student Marks Calculator\obj\Debug\Student Marks Calculator.exe

@@ -1,0 +1,39 @@
+C:\Users\Gafur\Desktop\Student Marks Calculator\bin\Debug\Student Marks Calculator.exe.config
+C:\Users\Gafur\Desktop\Student Marks Calculator\bin\Debug\Student Marks Calculator.exe
+C:\Users\Gafur\Desktop\Student Marks Calculator\bin\Debug\Student Marks Calculator.pdb
+C:\Users\Gafur\Desktop\Student Marks Calculator\bin\Debug\Student Marks Calculator.xml
+C:\Users\Gafur\Desktop\Student Marks Calculator\obj\Debug\Marks Calculator.vbproj.AssemblyReference.cache
+C:\Users\Gafur\Desktop\Student Marks Calculator\obj\Debug\Marks Calculator.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Gafur\Desktop\Student Marks Calculator\obj\Debug\Student_Marks_Calculator.btnresult.resources
+C:\Users\Gafur\Desktop\Student Marks Calculator\obj\Debug\Student_Marks_Calculator.Resources.resources
+C:\Users\Gafur\Desktop\Student Marks Calculator\obj\Debug\Marks Calculator.vbproj.GenerateResource.cache
+C:\Users\Gafur\Desktop\Student Marks Calculator\obj\Debug\Marks Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\Gafur\Desktop\Student Marks Calculator\obj\Debug\Student Marks Calculator.exe
+C:\Users\Gafur\Desktop\Student Marks Calculator\obj\Debug\Student Marks Calculator.xml
+C:\Users\Gafur\Desktop\Student Marks Calculator\obj\Debug\Student Marks Calculator.pdb
+C:\My Project files\Private\Student Marks Calculator\bin\Debug\Student Marks Calculator.exe.config
+C:\My Project files\Private\Student Marks Calculator\bin\Debug\Student Marks Calculator.exe
+C:\My Project files\Private\Student Marks Calculator\bin\Debug\Student Marks Calculator.pdb
+C:\My Project files\Private\Student Marks Calculator\bin\Debug\Student Marks Calculator.xml
+C:\My Project files\Private\Student Marks Calculator\obj\Debug\Marks Calculator.vbproj.AssemblyReference.cache
+C:\My Project files\Private\Student Marks Calculator\obj\Debug\Marks Calculator.vbproj.SuggestedBindingRedirects.cache
+C:\My Project files\Private\Student Marks Calculator\obj\Debug\Student_Marks_Calculator.btnresult.resources
+C:\My Project files\Private\Student Marks Calculator\obj\Debug\Student_Marks_Calculator.Resources.resources
+C:\My Project files\Private\Student Marks Calculator\obj\Debug\Marks Calculator.vbproj.GenerateResource.cache
+C:\My Project files\Private\Student Marks Calculator\obj\Debug\Marks Calculator.vbproj.CoreCompileInputs.cache
+C:\My Project files\Private\Student Marks Calculator\obj\Debug\Student Marks Calculator.exe
+C:\My Project files\Private\Student Marks Calculator\obj\Debug\Student Marks Calculator.xml
+C:\My Project files\Private\Student Marks Calculator\obj\Debug\Student Marks Calculator.pdb
+C:\My Project files\Private\prime-detector\bin\Debug\Student Marks Calculator.exe.config
+C:\My Project files\Private\prime-detector\bin\Debug\Student Marks Calculator.exe
+C:\My Project files\Private\prime-detector\bin\Debug\Student Marks Calculator.pdb
+C:\My Project files\Private\prime-detector\bin\Debug\Student Marks Calculator.xml
+C:\My Project files\Private\prime-detector\obj\Debug\Marks Calculator.vbproj.AssemblyReference.cache
+C:\My Project files\Private\prime-detector\obj\Debug\Marks Calculator.vbproj.SuggestedBindingRedirects.cache
+C:\My Project files\Private\prime-detector\obj\Debug\Student_Marks_Calculator.btnresult.resources
+C:\My Project files\Private\prime-detector\obj\Debug\Student_Marks_Calculator.Resources.resources
+C:\My Project files\Private\prime-detector\obj\Debug\Marks Calculator.vbproj.GenerateResource.cache
+C:\My Project files\Private\prime-detector\obj\Debug\Marks Calculator.vbproj.CoreCompileInputs.cache
+C:\My Project files\Private\prime-detector\obj\Debug\Student Marks Calculator.exe
+C:\My Project files\Private\prime-detector\obj\Debug\Student Marks Calculator.xml
+C:\My Project files\Private\prime-detector\obj\Debug\Student Marks Calculator.pdb
